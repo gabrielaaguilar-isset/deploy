@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "teconologias": [
+            "wordpress,  ",
+            "css,  ",
+            "javascript"
+        ],
+        "nameProject": "Adri Capon",
+        "img_Proyect": "blog-del-rebobinador.png",
+        "type": "Landing Page",
+        "finish": false,
+        "teconologias_fotos": [
+            "wordpress.png",
+            "css.png",
+            "javascript.png"
+        ]
+    },
+    {
+        "id":2,
+        "teconologias": [
+            "wordpress,  ",
+            "css,  ",
+            "javascript"
+        ],
+        "nameProject": "Mauri Corparation",
+        "img_Proyect": "blog-del-rebobinador.png",
+        "type": "Corporate Website",
+        "finish":true,
+        "teconologias_fotos": [
+            "wordpress.png",
+            "css.png",
+            "javascript.png"
+        ]
+    },
+    {
+        "id":3,
+        "teconologias": [
+            "wordpress,  ",
+            "css,  ",
+            "javascript"
+        ],
+        "nameProject": "Blog del Rebobinador",
+        "img_Proyect": "blog-del-rebobinador.png",
+        "type": "e-learning",
+        "finish":true,
+        "teconologias_fotos": [
+            "wordpress.png",
+            "css.png",
+            "javascript.png"
+        ]
+    }
+]
